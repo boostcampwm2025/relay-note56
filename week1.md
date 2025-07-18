@@ -58,7 +58,8 @@
 
 Git에서는 모든 데이터 = 객체
 
-![image.png](attachment:9d01e4be-97e3-4402-94ca-6cd3bae2970e:image.png)
+<img width="443" height="280" alt="image" src="https://github.com/user-attachments/assets/58b80504-9d28-4c6b-9b63-37a0f57a6126" />
+
 
 File의 SHA-1해시는 계산되어 Blob개체에 저장
 
