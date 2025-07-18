@@ -139,6 +139,7 @@ DP를 사용하여 LCS계산하고 LCS의 길이 기반으로 변경된 부분 �
 
 ### 옵시디언
 <img width="682" height="429" alt="image" src="https://github.com/user-attachments/assets/3b6a7a2f-aad7-407e-82c1-b1ccff046330" />
+
 자유롭게 메모를 작성하고, 이를 연결하여 지식 네트워크 구축할 수 있는 강력한 도구입니다. 
 
 hint) 노트 간 링크 기능: 서로 다른 메모를 연결하여 개인 위키처럼 활용 가능 
@@ -146,9 +147,11 @@ hint) 노트 간 링크 기능: 서로 다른 메모를 연결하여 개인 위�
 - 그래프 뷰 제공: 메모들의 관계를 시각적으로 표현
 
 ### 노션
-<img width="660" height="299" alt="image" src="https://github.com/user-attachments/assets/b70434f2-c013-425a-a263-453fca5eb966" />
-## 최종 아이디어 선택
 
+<img width="660" height="299" alt="image" src="https://github.com/user-attachments/assets/b70434f2-c013-425a-a263-453fca5eb966" />
+
+
+## 최종 아이디어 선택
 <aside>
 💡
 
