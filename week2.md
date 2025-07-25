@@ -19,12 +19,12 @@ AI를 어떻게 활용할 수 있을지에 대한 진지한 고민이 이루어�
 - 달성기준: 최소 1번, 원하는 만큼만 부담 없이 수행
 - 수행방법: AI에게 개발자에게 필요한 영어 단어를 5개 추천 받고 기록하기
 
-<detail>
+<details>
     <summary>
         예시
     </summary>
 <img width="819" height="533" alt="image" src="https://github.com/user-attachments/assets/913c6dce-f074-428a-8f09-b9bd9c3c0eb8" />
-</detail>
+</details>
 
 ## 2️⃣ 프롬프트를 통한 학습, 설계, 구현 시간 분배하기
 
