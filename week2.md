@@ -18,10 +18,13 @@ AI를 어떻게 활용할 수 있을지에 대한 진지한 고민이 이루어�
 - 목적: 수월하게 원문을 읽기 위해 영어 능력 향상
 - 달성기준: 최소 1번, 원하는 만큼만 부담 없이 수행
 - 수행방법: AI에게 개발자에게 필요한 영어 단어를 5개 추천 받고 기록하기
-- 예시
-    
-    ![image.png](%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3%2056%2023bfae58141480e484d6de01f63a6919/image.png)
-    
+
+<detail>
+    <summary>
+        예시
+    </summary>
+<img width="819" height="533" alt="image" src="https://github.com/user-attachments/assets/913c6dce-f074-428a-8f09-b9bd9c3c0eb8" />
+</detail>
 
 ## 2️⃣ 프롬프트를 통한 학습, 설계, 구현 시간 분배하기
 
