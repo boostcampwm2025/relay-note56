@@ -262,4 +262,56 @@ ChatGPT: "setTimeout(async () => {...})는 일정 시간 뒤에 실행됩니다.
     - 앞으로도 개인 학습에 유용하게 활용할 예정
 #### S015박현수:
 - 수행 내용:
+    - 1.개발자에게 필요한 영어 단어 5개 추천받기
+    ```
+    다음은 개발자에게 필수적인 영단어 5개입니다. 실제 문서, 커밋 메시지, 코드 리뷰, 기술 면접 등에서 매우 자주 쓰이며, 의미와 쓰임을 정확히 아는 것이 중요합니다.
+    
+    ⸻
+    
+    1. iterate
+    	•	뜻: 반복하다, 순회하다
+    	•	맥락: 루프, 배열, 컬렉션 처리 시
+    	•	예문:
+    We iterate over the array to apply the transformation.
+    
+    ⸻
+    
+    2. maintain
+    	•	뜻: 유지하다, 관리하다
+    	•	맥락: 코드 품질, 기술 부채
+    	•	예문:
+    This module is hard to maintain due to poor separation of concerns.
+    
+    ⸻
+    
+    3. optimize
+    	•	뜻: 최적화하다
+    	•	맥락: 성능, 메모리, 알고리즘
+    	•	예문:
+    We optimized the database query to reduce response time.
+    
+    ⸻
+    
+    4. rollback
+    	•	뜻: (변경 사항을) 되돌리다
+    	•	맥락: 배포, 트랜잭션, 에러 처리
+    	•	예문:
+    If the deployment fails, we should rollback to the previous version.
+    
+    ⸻
+    
+    5. merge
+    	•	뜻: 병합하다
+    	•	맥락: Git, 브랜치 전략
+    	•	예문:
+    Make sure to resolve all conflicts before merging the feature branch.
+    
+    ⸻
+    
+    필요하다면 이 단어들을 중심으로 한 기술 인터뷰 질문, 커밋 메시지 예시, 토익/IELTS 개발자 지문 단어 정리 등도 도와드릴 수 있습니다. 원하시나요?
+    ```
+    이렇게 하루에 5개의 영어 단어를 추천 받아서 학습했습니다!
 - 느낀점:
+    - 사실 이번 주에 AI가 추천해 준 단어들은 git 협업을 하거나, 개발을 해오면서 흔히 접할 수 있는 단어들이라 크게 새롭지는 않았던 것 같습니다.
+    - 저는 원문 레퍼런스를 읽는 능력을 기르고 싶었는데, 그냥 개발자에게 필요한 영어 단어를 추천해 달라고 하기보다는 필요한 상황에 맞는 영어 단어를 추천해 달라고 하는 쪽이 더 효율적이라는 생각이 듭니다.
+    - 추가적으로 문제를 만들어 달라고 요청해서 확인해 보면, 의미 있는 학습이 이루어질 것 같습니다!
