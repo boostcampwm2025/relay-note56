@@ -212,7 +212,50 @@ ChatGPT: "setTimeout(async () => {...})는 일정 시간 뒤에 실행됩니다.
 
 #### J152신채은:
 - 수행 내용:
+    - deprecated
+뜻: 더 이상 권장하지 않음 / 폐기 예정
+개발 뉘앙스:
+API, 함수, 속성 등에서 “이제 사용하지 말라“는 의미로 등장
+아직 동작하긴 하지만, 미래 버전에서는 없어질 수 있음
+예문:
+This method is deprecated and will be removed in the next release.
+→ 이 메서드는 더 이상 권장되지 않으며 다음 릴리스에서 제거될 예정입니다.
+
+    - overhead
+뜻: 추가 부담, 부하, 불필요한 비용
+개발 뉘앙스:
+CPU/메모리/네트워크 등 성능 최적화 얘기할 때 자주 등장
+“쓸데없는 추가 비용“이라는 느낌
+예문:
+Using reflection introduces significant overhead.
+→ 리플렉션을 사용하면 성능상 큰 부담이 발생합니다.
+    - robust
+뜻: 견고한, 안정적인
+개발 뉘앙스:
+코드나 시스템이 예외 상황에도 잘 버티는 상태
+테스트 케이스가 다양해도 쉽게 깨지지 않음
+예문:
+We need a more robust error handling mechanism.
+→ 더 견고한 에러 처리 메커니즘이 필요합니다.
+    - fallback
+뜻: 대체 수단, 예비 대응책
+개발 뉘앙스:
+주 기능이 실패하면 실행할 차선책 로직
+네트워크 끊기거나, 기능 미지원 시 대체 옵션 제공할 때
+예문:
+If the primary server is unavailable, the system will fallback to a backup server.
+→ 메인 서버가 사용 불가 시 백업 서버로 대체됩니다.
+    - legacy
+뜻: 구식의, 이전 버전의
+개발 뉘앙스:
+오래된 코드, 구식 시스템, 유지보수는 하지만 새로운 건 쓰지 않는 상태
+보통 “건드리기 싫은 코드“라는 의미로 쓰임
+예문:
+We are migrating from the legacy system to a modern architecture.
+→ 구식 시스템에서 최신 아키텍처로 마이그레이션 중입니다.
 - 느낀점:
+    - 사실 개발자에게 필요한 영어단어라는 게 추상적인 개념이라 범위를 잡기 어려웠는데 그래도 ai가 범위를 정해서 알려주니 학습에 더 도움이 되었습니다.
+    - 영어로 된 공식 문서를 보며 항상 제 영어의 한계를 느끼곤 하는데 시작이 반이라는 말처럼 영단어들이 익숙해지는 연습이 필요할 것 같습니다! 아래는 추천 결과입니다
 #### J300황지현:
 - 수행 내용:
 - 느낀점:
