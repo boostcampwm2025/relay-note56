@@ -264,4 +264,26 @@ mindmap
 #### 🔸 S005김성훈
 
 - 📌 **수행 내용**:
+  - 요청양식은 다음과 같이 의미와 상황까지 같이 볼 수 있도록 했습니다.
+  
+    <img width="572" height="173" alt="요청멘트" src="https://github.com/user-attachments/assets/426bea57-9ce8-4bb0-90e8-5309febc28ea" />
+
+  - https://developer.apple.com/documentation/naturallanguage/nlembedding
+  
+    <img width="771" height="822" alt="대답1" src="https://github.com/user-attachments/assets/72eae444-b55f-40a4-b9c7-bc69a34b27e2" />
+
+  - https://developer.apple.com/documentation/xctest/xctestcase/measure(_:)
+  
+    <img width="871" height="690" alt="대답2" src="https://github.com/user-attachments/assets/4c813a00-2365-44d7-86a4-fe6db90d8710" />
+
+  - https://developer.apple.com/documentation/network
+  
+    <img width="914" height="766" alt="대답3" src="https://github.com/user-attachments/assets/be78dc6c-e327-49bd-991d-105b870c70fb" />
+
+  - https://developer.apple.com/documentation/Foundation/URLSession
+  
+    <img width="899" height="688" alt="대답4" src="https://github.com/user-attachments/assets/e5b90710-a3d7-4732-99b1-4d4d8d8c860e" />
+
 - 💭 **느낀 점**:
+  - 친숙한 한국어로 용어의 의미를 다시보니 개념이 훨씬 더 명확하게 다가왔고, 실제로 어떻게 쓰이는지도 구체적으로 떠올릴 수 있어서 이해에 도움이 되었습니다.
+또한 매일 미션과 관련된 중요한 단어 5개를 의미와 함께 살펴보니 단어를 넘어서 맥락 속에서 개념을 연결하게 되었고 그 덕분에 미션 자체에 더 신경 써서 집중할 수 있었던 것 같습니다.
